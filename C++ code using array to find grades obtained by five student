@@ -70,5 +70,5 @@ max=total[i];
  cout<<'\n'<<"the top mark among the three students in all the five subjects is "<<" "<<max<<"
 "<<"out of 250";
  cout<<'\n'<<"The lowest mark among the three students in all the five subjects is"<<" "<<min<<"
-"<<"out of 250";
+"<<"out of 250";;
  }
